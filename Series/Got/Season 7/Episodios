@@ -1,10 +1,19 @@
-#EXTM3U
+<layouttype>poster</layouttype>
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Got/Season%207/arte.jpg",[B][COLOR yellow]Episodio [/COLOR][COLOR blue]1[/COLOR][/B]
-http://zeus.netcine.tv/httpdelivery/got/07leg/o1-ALTO.mp4
+<channels>
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Got/Season%207/arte.jpg",[B][COLOR yellow]Episodio [/COLOR][COLOR blue]2[/COLOR][/B]
-http://zeus.netcine.tv/httpdelivery/got/07leg/002-ALTO.mp4
+<channel>
+<name>SD</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Got/Season%207/arte.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Got/Season%207/SD</externallink>
+<fanart>http://lista.redenext.com/background/006.jpg</fanart>
+</channel>
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Got/Season%207/arte.jpg",[B][COLOR yellow]Episodio [/COLOR][COLOR blue]3[/COLOR][/B]
-http://zeus.netcine.tv/httpdelivery/got/07leg/003-ALTO.mp4
+<channel>
+<name>HD</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Got/Season%207/arte.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Got/Season%207/HD</externallink>
+<fanart>http://lista.redenext.com/background/006.jpg</fanart>
+</channel>
+
+</channels>
