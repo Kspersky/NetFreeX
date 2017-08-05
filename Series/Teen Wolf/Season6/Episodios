@@ -4,14 +4,14 @@
 
 <channel>
 <name>SD</name>
-<thumbnail>https://github.com/Kspersky/NetFreeX/raw/master/Series/Got/Season%207/arte.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Teen%20Wolf/Season6/arte.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Teen%20Wolf/Season6/SD</externallink>
 <fanart>http://lista.redenext.com/background/006.jpg</fanart>
 </channel>
 
 <channel>
 <name>HD</name>
-<thumbnail>https://github.com/Kspersky/NetFreeX/raw/master/Series/Got/Season%207/arte.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Teen%20Wolf/Season6/arte.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Teen%20Wolf/Season6/HD</externallink>
 <fanart>http://lista.redenext.com/background/006.jpg</fanart>
 </channel>
