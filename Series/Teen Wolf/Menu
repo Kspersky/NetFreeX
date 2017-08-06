@@ -1,12 +1,13 @@
+
 <layouttype>poster</layouttype>
 
 <channels>
 
 <channel>
-<name>6º Temporada</name>
-<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Teen%20Wolf/Season6/arte.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Teen%20Wolf/Season6/Menu</externallink>
-<fanart>http://lista.redenext.com/background/005.jpg</fanart>
+<name>SD</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Lucifer/Season2/arte.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Lucifer/Season2/Menu</externallink>
+<fanart>http://lista.redenext.com/background/008.jpg</fanart>
 </channel>
 
 </channels>
