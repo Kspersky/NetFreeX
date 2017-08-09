@@ -1,4 +1,27 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="http://lista.redenext.com/logo/107.jpg",[B][COLOR yellow]Sexy Zone[/COLOR][/B]
-http://tv.ec.cx:1935/redecanais-stream-hot/myStream/playlist.m3u8
+<?xml version="1.0" encoding="utf-8"?>
+<channels>
+<channel>
+<name>[B][COLOR white]EXOTIC4K[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/Exotic/arte.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/Exotic/Videos</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/arte.jpg</fanart>
+</channel>
+<channel>
+<name>[B][COLOR white]PASSION HD[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/Passion/arte.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/Passion/Videos</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/arte.jpg</fanart>
+</channel>
+<channel>
+<name>[B][COLOR white]PORNPROS[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/PornPros/arte.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/PornPros/Videos</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/arte.jpg</fanart>
+</channel>
+<channel>
+<name>[B][COLOR white]TINY 4K[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/Tiny/arte.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/Tiny/Videos</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Erotic/arte.jpg</fanart>
+</channel>
+</channels>
