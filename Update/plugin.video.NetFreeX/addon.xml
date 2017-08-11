@@ -1,14 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.demo.kodi" name="Demonstration repository" version="0.0.2" provider-name="Mafarricos">
-	<extension point="xbmc.addon.repository" name="Demonstration Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Mafarricos/Mafarricos-kodi-demo-repo/master/repo/</datadir>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.NetFreeX" name="NetFreeX" version="2.0.1" provider-name="www.netfreex.com.br">
+	<extension point="xbmc.addon.repository" name="NetFreeX Updater">
+		<info compressed="false">https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Update/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Update/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Kspersky/NetFreeX/tree/master/Update/Repository/plugin.video.NetFreeX</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Demonstration Addon</summary>
-		<description>Addon Description</description>
+	<website>http://www.netfreex.com.br/</website>
+	<summary lang="en_gb">[B][COLOR yellow]NetFreeX[/COLOR][COLOR blue] Play[/COLOR]</summary>
+    <description lang="en_gb">Addon focado em proporcionar acesso a canais de tv, filmes, series e animes de forma facil, pratica e eficiente.</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
 </addon>
+</addons>
