@@ -27,6 +27,11 @@
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
   </extension>
+	<extension point="xbmc.addon.repository" name="Tutorial Add-on Repository">
+		<info compressed="false">https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Update/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Update/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Kspersky/NetFreeX/tree/master/Update/repo</datadir>
+	</extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"></summary>
     <description lang="en"></description>
@@ -42,19 +47,5 @@
     <screenshot>resources/screenshot-03.png</screenshot>
 </assets>
 </extension>
-</addon>
-
-<addon id="tutorial.repository" name="Tutorial repository" version="0.0.2" provider-name="Mafarricos">
-	<extension point="xbmc.addon.repository" name="Tutorial Add-on Repository">
-		<info compressed="false">http://raw.github.com/Mafarricos/tutorial.repository/master/addons.xml</info>
-		<checksum>http://raw.github.com/Mafarricos/tutorial.repository/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://raw.github.com/Mafarricos/tutorial.repository/master/repo/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Tutorial Addon</summary>
-		<description>Addon Description</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
 </addon>
 </addons>
