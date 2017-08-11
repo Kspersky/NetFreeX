@@ -1,0 +1,18 @@
+﻿<settings>		
+<category label="Assinatura">
+	    <setting label="[COLOR blue]Habilitação de assinatura NetFreeX.[/COLOR]" type="lsep" /> 
+	    <setting label="Premium" type="labelenum" id="Premium" default="Off" values="Off|On"/>
+		<setting default="" label="Usuário" type="text" id="User" enable="!eq(-1,false)"/>
+		<setting default="" label="Senha" type="text" id="Pass" enable="!eq(-2,false)" option="hidden"/>
+		<setting id="donotshowbychannels" label="" visible="false" type="bool" default="false"/>
+</category>
+<category label="Extras">
+	    <setting label="[COLOR blue]Habilitação de conteudo Erótico.[/COLOR]" type="lsep" /> 
+	    <setting label="Conteúdo +18" type="labelenum" id="Porn" default="Off" values="Off|On"/>
+</category>	
+<category label="Visual">
+	    <setting label="[COLOR blue]Modo de Exibição [ Canais ].[/COLOR]" type="lsep" /> 
+	    <setting label="Ordem" type="labelenum" id="Order" default="Alfabetica" values="Alfabetica|Categorica"/>
+		<setting label="Filtro" type="labelenum" id="Filter" default="Off" values="Off|On"/>
+</category>	
+</settings>
