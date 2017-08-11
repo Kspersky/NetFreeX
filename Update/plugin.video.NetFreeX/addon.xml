@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.NetFreeX" name="NetFreeX" version="2.0.1" provider-name="www.netfreex.com.br">
+<addon id="plugin.video.NetFreeX" name="NetFreeX" version="2.0.2" provider-name="www.netfreex.com.br">
 	<extension point="xbmc.addon.repository" name="NetFreeX Updater">
 		<info compressed="false">https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Update/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Update/addons.xml.md5</checksum>
