@@ -1,0 +1,53 @@
+<layouttype>InfoWall</layouttype>
+
+<channels>
+
+<channel>
+<name>Dark Matter</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Dark%20Matter/Season3/arte.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Dark%20Matter/Menu</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Fundo/007.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Game Of Thrones</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Got/Season%207/arte.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Got/Menu</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Fundo/006.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Legion</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Legion/Season1/arte.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Legion/Menu</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Fundo/009.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Lucifer</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Lucifer/Season2/arte.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Lucifer/Menu</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Fundo/008.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>Teen Wolf</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Teen%20Wolf/Season6/arte.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Teen%20Wolf/Menu</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Fundo/011.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>The Walking Dead</name>
+<thumbnail>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Twd/Season7/arte.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Series/Twd/Menu</externallink>
+<fanart>https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Fundo/010.jpg</fanart>
+<info></info>
+</channel>
+
+</channels>
