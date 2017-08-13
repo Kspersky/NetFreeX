@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Filmes/arte001.jpg",[B][COLOR yellow]Rei Athur - A Lenda da Espada[/COLOR][/B]
-https://3.bp.blogspot.com/x0wonp1-cBaj806YYGhP0Oe7GtoBN3e3z3AFSxwzDe5vBkTu5AYXHQ8lmMzHr2J7Lt3SdXFUuyDbN4VFqA=m37
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Filmes/arte002.jpg",[B][COLOR yellow]Power Rangers[/COLOR][/B]
-http://zeus.netcine.tv/httpdelivery/filmes2017/POWER2017DUB2-ALTO.mp4
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9FRxW1T.jpg",Guardiões da Galáxia Vol. 2
 http://zeus.netcine.tv/httpdelivery/filmes2017/GUARDIOES2017DUB-ALTO.mp4
 
