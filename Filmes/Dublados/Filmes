@@ -12,7 +12,7 @@ http://d11wjngvg07kky.cloudfront.net/httpdelivery/filmes2017/ARTHUR2017DUB-ALTO.
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1C2RKRo.jpg",Blade Runner – o Caçador de Andróides
 http://d11wjngvg07kky.cloudfront.net/httpdelivery/filmes2017/BLADERUNNERDUB-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k6njvBy.jpg",O Vendedor de Sonhos - Nacional
+#EXTINF:-1 tvg-logo="http://i.imgur.com/k6njvBy.jpg",O Vendedor de Sonhos
 http://d11wjngvg07kky.cloudfront.net/httpdelivery/filmes2017/VENDEDORSONHOS-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/twSBaLy.jpg",Fome de Poder
@@ -21,10 +21,10 @@ http://d11wjngvg07kky.cloudfront.net/httpdelivery/filmes2017/FOMED4PODERDUB-ALTO
 #EXTINF:-1 tvg-logo="http://i.imgur.com/9OfuO2d.jpg",Internet – O Filme
 http://d11wjngvg07kky.cloudfront.net/httpdelivery/filmes2017/INTERNETMOVIE-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/KAG8TIK.jpg",Eu Fico Loko - Nacional
+#EXTINF:-1 tvg-logo="http://i.imgur.com/KAG8TIK.jpg",Eu Fico Loko
 http://d11wjngvg07kky.cloudfront.net/httpdelivery/filmes2017/EUFICOLOUCO-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/O9sjNUP.jpg",Ninguém Entra, Ninguém Sai - Nacional
+#EXTINF:-1 tvg-logo="http://i.imgur.com/O9sjNUP.jpg",Ninguém Entra, Ninguém Sai
 http://d11wjngvg07kky.cloudfront.net/httpdelivery/filmes2017/NINGUEMENTRASAI2017-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bIYhE2z.jpg",A Cabana
@@ -95,7 +95,7 @@ http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/APSTNDTD.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yiwAArm.jpg",Deidra e Laney Assaltam um Trem
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/DEDRELNYASTMUTRM.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1xuKxCM.jpg",Internet: O Filme (Nacional)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1xuKxCM.jpg",Internet: O Filme 
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/INTNET.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/JjrT51q.jpg",A Bailarina
@@ -171,7 +171,7 @@ http://d2vtmdu8kl2z8y.cloudfront.net/netcine-bucket/filmes2016/TINHADUB-ALTO.mp4
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kqTVhK3.jpg",Passageiros
 http://d2vtmdu8kl2z8y.cloudfront.net/netcine-bucket/filmes2016/PASDUB-ALTO.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/hrYnqxj.jpg",Minha Mãe é uma Peça 2 - Nacional
+#EXTINF:-1 tvg-logo="http://i.imgur.com/hrYnqxj.jpg",Minha Mãe é uma Peça 2
 http://d2vtmdu8kl2z8y.cloudfront.net/netcine-bucket/filmes2016/MINHAMAE-ALTO.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/46zeCSj.jpg",KUBO E AS CORDAS MÁGICAS
@@ -201,7 +201,7 @@ http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/HRYPTR07.mp4
 #EXTINF:-1 tvg-logo="https://goo.gl/i4D3B2",Harry Potter e as Relíquias da Morte - Parte 2
 http://vd.ec.cx/vd/dd/RC/RCFServer1/ondemand/HRYPTR08.mp4
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/koZNseM.jpg",O Shaolin Do Sertão (Nacional)
+#EXTINF:-1 tvg-logo="http://i.imgur.com/koZNseM.jpg",O Shaolin Do Sertão 
 http://vd.ec.cx/vd/dd/RC/RCFServer3/ondemand/OSHLINDSRT.mp4
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/Alt1A8i.jpg",Assassino a Preço Fixo 2: A Ressurreição
