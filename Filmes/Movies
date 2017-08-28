@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="",Em Manutenção
+#EXTINF:-1 tvg-logo='https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Logos/227.png',[B][COLOR white]Servidor em Manutenção![/COLOR][/B]
  http://www.netfreex.com.br
