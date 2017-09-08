@@ -1,0 +1,17 @@
+name="NetFreeX Play"
+url="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Repository/plugin.video.NetFreeX.zip"
+img="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Repository/icon_1.png"
+fanart="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Repository/fanart.jpg"
+description="Instalação : 1x3"
+
+name="F4mProxy"
+url="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Repository/script.video.F4mProxy.zip"
+img="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Repository/icon_2.png"
+fanart="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Repository/fanart.jpg"
+description="Instalação : 2x3"
+
+name="F4mTester"
+url="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Repository/plugin.video.f4mTester.zip"
+img="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Repository/icon_3.png"
+fanart="https://raw.githubusercontent.com/Kspersky/NetFreeX/master/Servidor/Repository/fanart.jpg"
+description="Instalação : 3x3"
